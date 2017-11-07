@@ -6,7 +6,6 @@ from setuptools import setup
 setup(name="simple-mpi",
       version="0.1",
       description="a simple master slave style wrapper for mpi",
-      url="not yet there",
       author="Jobst Heitzig, Jonathan Donges, pyunicorn authors, and Tim Kittel",
       license="BSD (3-clause)",
       packages=["simple_mpi"],
